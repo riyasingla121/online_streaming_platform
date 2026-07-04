@@ -50,6 +50,9 @@ The project contains the following tables:
 * One Movie → Multiple Ratings
 
 ---
+## 🗂️ Entity Relationship Diagram
+
+![ER Diagram](ER-Diagram.png)
 
 ## 📚 SQL Concepts Used
 
